@@ -7,6 +7,7 @@ description = "Rangeset container based on tinyvec"
 repository = "https://github.com/Apolexian/RangeSet"
 homepage = "https://github.com/Apolexian/RangeSet"
 readme= "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
