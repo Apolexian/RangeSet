@@ -1,5 +1,5 @@
 [package]
-name = "range_set"
+name = "int_range_set"
 version = "0.1.0"
 edition = "2018"
 authors = ["Ivan Nikitin <ivan@niktivan.org>"]
