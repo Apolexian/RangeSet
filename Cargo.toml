@@ -1,0 +1,15 @@
+[package]
+name = "range_set"
+version = "0.1.0"
+edition = "2018"
+authors = ["Ivan Nikitin <ivan@niktivan.org>"]
+description = "Rangeset container based on tinyvec"
+repository = "https://github.com/Apolexian/RangeSet"
+homepage = "https://github.com/Apolexian/RangeSet"
+readme= "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tinyvec = { version = "1.1", features = ["alloc"] }
+
